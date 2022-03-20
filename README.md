@@ -23,7 +23,5 @@ We were asked by the Colorado Board of Elections to preform an audit on a recent
 ## Summary 
 ![image](https://user-images.githubusercontent.com/99618784/159184229-80b20d35-9157-402e-baf1-b6f41e235513.png)
 
-
-## Challenge Overview 
-
 ## Challenge Summary 
+After running our election analysis we learned that Diana Degette won by a land slide. 
