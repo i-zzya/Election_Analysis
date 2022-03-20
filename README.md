@@ -24,4 +24,4 @@ We were asked by the Colorado Board of Elections to preform an audit on a recent
 ![image](https://user-images.githubusercontent.com/99618784/159184229-80b20d35-9157-402e-baf1-b6f41e235513.png)
 
 ## Challenge Summary 
-After running our election analysis we learned that Diana Degette won by a land slide. 
+After running our election analysis we learned that Diana Degette won by a majority. Out of the total overall votes of 367,111 she received 272,892 of them. Followed by Stockham with 85,213 votes and Doane with 11,606 votes. DeGette won 73.8% of the votes followed by Stockham's 23% and Doane's 3.1%. We also learned that Denver had the largest voter turnout. 
