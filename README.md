@@ -1,31 +1,28 @@
 # Election_Analysis
 
 ## Project Overview 
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. 
+We were asked by the Colorado Board of Elections to preform an audit on a recent local congressional election. We needed to find the total number of votes per county and percentages. We also needed to find the total number of votes and percentages for each candidate. 
 
-1.	Calculate the total number of votes cast.
-2.	Get a complete list of candidates who received votes.
-3.	Calculate the total number of votes each candidate received.
-4.	Calculate the percentage of votes each candidate won.
-5.	Determine the winner of the election based on popular vote.
+## Results
+1.	The total number of votes cast were 367,111.
+2.	The candidates were Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.
+3.	Each candidate recieved the following votes: 
+4.	Charles Casper Stockham: (85,213)
+5.	Diana DeGette: (272,892)
+6.	Raymon Anthony Doane: (11,606)
+7.	Each candidate recieved the following percentage of votes:
+8.	Charles Casper Stockham: 23.0% 
+9.	Diana DeGette: 73.8% 
+10.	Raymon Anthony Doane: 3.1%
+11.	The winner of the election was Diana DeGette with 272,892 total votes at 73.8% overall.
 
 ## Resources 
 -	Data Source: election_results.csv
 -	Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Summary 
-The analysis of the election show that: 
--	There were "x" votes cast in the election.
--	The candidates were:
--	Candidate 1
--	Candidate 2
--	Candidate 3
--	The candidate results were:
-    -	Candidate 1 received "x%" of the vote and "y" number of votes.
-    -	Candidate 2 received "x%" of the vote and "y" number of votes.
-    -	Candidate 3 received "x%" of the vote and "y" number of votes.
--	The winner of the election was:
--	Candidate ( 1, 2, or 3), who received "x%" of the vote and "y"
+![image](https://user-images.githubusercontent.com/99618784/159184229-80b20d35-9157-402e-baf1-b6f41e235513.png)
+
 
 ## Challenge Overview 
 
